@@ -6,7 +6,7 @@ With node.js and npm installed, just run:
 `npm install` to get started.
 
 To start the web server used for development, run:
-`npm run dev`
+`npm start`
 
 And to create a production build, with minified CSS and JavaScript, run:
 `npm run build`
