@@ -8,11 +8,12 @@ Configured with the following tools:
 
 - Webpack - with a dev server that allows hot loading of changes and that minifies the CSS and JavaScript created for production builds
 
-- ESLint - configured with AirBnb's very popular ruleset and added typescript rules. Please make sure that all your files are written with the typescript extension .ts, as ESLint is set to ignore all .js files. This is to prevent these files from being incorrectly linted. 
+- ESLint - configured with AirBnb's very popular ruleset and added typescript rules.
 
 - Jest - for testing our application.
 
 ## Installation
+
 With node.js and npm installed, just run:
 `npm install` to get started.
 
