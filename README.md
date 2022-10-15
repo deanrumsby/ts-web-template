@@ -1,6 +1,6 @@
 # ts-web-template
 
-A development template for working on web apps written in vanilla JavaScript.
+A development template for working on web apps written in TypeScript/ JavaScript.
 
 Configured with the following tools:
 
