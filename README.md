@@ -1,6 +1,6 @@
-# js-web-env
+# js-web-template
 
-A development environment for working on web apps written in vanilla JavaScript.
+A development template for working on web apps written in vanilla JavaScript.
 
 Configured with the following tools:
 
