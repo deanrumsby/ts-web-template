@@ -24,3 +24,4 @@ And to create a production build, run:
 `npm run build`
 
 The production build will be located in the /dist folder.
+Both the development and production builds use the three index files in src/ as the entry point for the application.

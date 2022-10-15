@@ -12,7 +12,9 @@ module.exports = {
   },
   plugins: [
     new MiniCssExtractPlugin(),
-    new HtmlWebpackPlugin(),
+    new HtmlWebpackPlugin({
+      template: 'src/index.html',
+    }),
     new ESLintPlugin(),
   ],
   module: {
